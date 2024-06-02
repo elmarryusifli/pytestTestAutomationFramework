@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Testing
+*.pyc
+
+# Build files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyd
+*.a
+*.lib
+*.pdb
+*.ipdb
+*.swp
+*.swo
+*.out
+
+# Dependency directories
+.idea/
+.vscode/
+
+/reports/
+/pytest_cache/
+.DS_Store
